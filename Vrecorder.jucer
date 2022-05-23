@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="gj9Wm6" name="Vrecorder" projectType="guiapp" jucerFormatVersion="1"
+              displaySplashScreen="1" maxBinaryFileSize="20971520">
+  <MAINGROUP id="zVAAgt" name="Vrecorder">
+    <GROUP id="{61873330-663F-EB03-0DA8-8DC7249414E5}" name="Source">
+      <GROUP id="{70123E82-4E8E-3C31-B8BA-3D97912FE031}" name="image">
+        <FILE id="xT28oQ" name="cutend.png" compile="0" resource="1" file="image/cutend.png"/>
+        <FILE id="tzr3lr" name="cutstart.png" compile="0" resource="1" file="image/cutstart.png"/>
+        <FILE id="W3TStr" name="delete.png" compile="0" resource="1" file="image/delete.png"/>
+        <FILE id="M09lwE" name="edit.png" compile="0" resource="1" file="image/edit.png"/>
+        <FILE id="USRB9z" name="en.png" compile="0" resource="1" file="image/en.png"/>
+        <FILE id="I5mtm7" name="folder.png" compile="0" resource="1" file="image/folder.png"/>
+        <FILE id="Xb9aiO" name="openfile.png" compile="0" resource="1" file="image/openfile.png"/>
+        <FILE id="XHn4wI" name="play.png" compile="0" resource="1" file="image/play.png"/>
+        <FILE id="oRURMa" name="playstop.png" compile="0" resource="1" file="image/playstop.png"/>
+        <FILE id="qkjneq" name="rename.png" compile="0" resource="1" file="image/rename.png"/>
+        <FILE id="b2OovW" name="save.png" compile="0" resource="1" file="image/save.png"/>
+        <FILE id="ukogfC" name="saveasnew.png" compile="0" resource="1" file="image/saveasnew.png"/>
+        <FILE id="zjKte3" name="scissors.png" compile="0" resource="1" file="image/scissors.png"/>
+        <FILE id="EO4S45" name="share.png" compile="0" resource="1" file="image/share.png"/>
+        <FILE id="zQihXs" name="speaker.png" compile="0" resource="1" file="image/speaker.png"/>
+        <FILE id="XBsU5U" name="stop.png" compile="0" resource="1" file="image/stop.png"/>
+        <FILE id="KYfmkA" name="zh.png" compile="0" resource="1" file="image/zh.png"/>
+      </GROUP>
+      <FILE id="WQbwp4" name="language.cpp" compile="1" resource="0" file="Source/language.cpp"/>
+      <FILE id="nXOx5u" name="language.h" compile="0" resource="0" file="Source/language.h"/>
+      <FILE id="dCU45R" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
+      <FILE id="NhZcfX" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
+      <FILE id="ogej4m" name="MainComponent.cpp" compile="1" resource="0"
+            file="Source/MainComponent.cpp"/>
+      <FILE id="avLsdc" name="RecordComponent.h" compile="0" resource="0"
+            file="Source/RecordComponent.h"/>
+      <FILE id="KhcfqD" name="RecordComponent.cpp" compile="1" resource="0"
+            file="Source/RecordComponent.cpp"/>
+      <FILE id="j9rt13" name="EditComponent.h" compile="0" resource="0" file="Source/EditComponent.h"/>
+      <FILE id="QdEHiQ" name="FileComponent.h" compile="0" resource="0" file="Source/FileComponent.h"/>
+      <FILE id="LTjKpA" name="FileComponent.cpp" compile="1" resource="0"
+            file="Source/FileComponent.cpp"/>
+      <FILE id="r0kk3n" name="ThumbnailComp.h" compile="0" resource="0" file="Source/ThumbnailComp.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_USE_CURL="1"/>
+  <EXPORTFORMATS>
+    <ANDROIDSTUDIO targetFolder="Builds/Android" microphonePermissionNeeded="1"
+                   androidEnableContentSharing="1" androidInternetNeeded="1" androidScreenOrientation="portrait"
+                   androidTargetSDK="29" androidBluetoothNeeded="0" androidExternalReadNeeded="1"
+                   androidExternalWriteNeeded="1" androidInAppBilling="0" androidVibratePermissionNeeded="0"
+                   androidPushNotifications="0" androidTheme="@android:style/Theme.NoTitleBar"
+                   smallIcon="zQihXs" bigIcon="zQihXs">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Vrecorder"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Vrecorder"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_analytics" path="../../modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../../modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../modules"/>
+        <MODULEPATH id="juce_box2d" path="../../modules"/>
+        <MODULEPATH id="juce_core" path="../../modules"/>
+        <MODULEPATH id="juce_cryptography" path="../../modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../modules"/>
+        <MODULEPATH id="juce_dsp" path="../../modules"/>
+        <MODULEPATH id="juce_events" path="../../modules"/>
+        <MODULEPATH id="juce_graphics" path="../../modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../modules"/>
+      </MODULEPATHS>
+    </ANDROIDSTUDIO>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_analytics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_box2d" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+</JUCERPROJECT>

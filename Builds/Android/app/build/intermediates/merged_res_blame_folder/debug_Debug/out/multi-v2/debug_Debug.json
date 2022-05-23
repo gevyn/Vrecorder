@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\merged_res\\debug_Debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\src\\debug\\res\\values\\string.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "2",
+                        "startOffsets": "54",
+                        "endColumns": "44",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}

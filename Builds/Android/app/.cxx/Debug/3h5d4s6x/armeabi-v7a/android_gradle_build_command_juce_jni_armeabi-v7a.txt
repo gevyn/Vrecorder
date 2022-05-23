@@ -1,0 +1,7 @@
+Executable : C:\Users\Gevyn\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\.cxx\Debug\3h5d4s6x\armeabi-v7a
+juce_jni
+jvmArgs : 
+

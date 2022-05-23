@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\.cxx\Debug\3h5d4s6x\x86'
+ninja: no work to do.

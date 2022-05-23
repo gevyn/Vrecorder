@@ -1,0 +1,68 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\CMakeLists.txt",
+    "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\RelWithDebInfo\\6x386e2g\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\RelWithDebInfo\\6x386e2g\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "oboe-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\RelWithDebInfo\\6x386e2g\\x86",
+        "oboe"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "oboe",
+      "output": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\RelWithDebInfo\\6x386e2g\\x86\\oboe\\liboboe.a"
+    },
+    "cpufeatures-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\RelWithDebInfo\\6x386e2g\\x86",
+        "cpufeatures"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "cpufeatures",
+      "output": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\RelWithDebInfo\\6x386e2g\\x86\\libcpufeatures.a"
+    },
+    "juce_jni-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\RelWithDebInfo\\6x386e2g\\x86",
+        "juce_jni"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "juce_jni",
+      "output": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\6x386e2g\\obj\\x86\\libjuce_jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "mm",
+    "cpp"
+  ]
+}

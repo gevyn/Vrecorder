@@ -1,0 +1,68 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\CMakeLists.txt",
+    "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "juce_jni-Debug-x86_64": {
+      "buildCommandComponents": [
+        "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\x86_64",
+        "juce_jni"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "juce_jni",
+      "output": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cxx\\Debug\\r4n5mu5t\\obj\\x86_64\\libjuce_jni.so",
+      "runtimeFiles": []
+    },
+    "oboe-Debug-x86_64": {
+      "buildCommandComponents": [
+        "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\x86_64",
+        "oboe"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "oboe",
+      "output": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\x86_64\\oboe\\liboboe.a"
+    },
+    "cpufeatures-Debug-x86_64": {
+      "buildCommandComponents": [
+        "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\x86_64",
+        "cpufeatures"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "cpufeatures",
+      "output": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\x86_64\\libcpufeatures.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "mm",
+    "cpp"
+  ]
+}

@@ -1,0 +1,451 @@
+[
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -Wno-sign-conversion -Wno-gnu-statement-expression -o CMakeFiles\\cpufeatures.dir\\C_\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\sources\\android\\cpufeatures\\cpu-features.c.o   -c C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\sources\\android\\cpufeatures\\cpu-features.c",
+  "file": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\sources\\android\\cpufeatures\\cpu-features.c"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\Source\\FileComponent.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\Source\\FileComponent.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\Source\\FileComponent.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\Source\\RecordComponent.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\Source\\RecordComponent.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\Source\\RecordComponent.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\Source\\Main.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\Source\\Main.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\Source\\Main.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\Source\\MainComponent.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\Source\\MainComponent.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\Source\\MainComponent.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_analytics.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_analytics.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_analytics.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_basics.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_basics.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_basics.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_devices.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_devices.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_devices.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_formats.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_formats.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_formats.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_processors.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_processors.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_processors.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_utils.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_utils.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_audio_utils.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_box2d.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_box2d.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_box2d.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_core.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_core.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_core.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_cryptography.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_cryptography.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_cryptography.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_data_structures.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_data_structures.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_data_structures.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_dsp.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_dsp.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_dsp.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_events.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_events.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_events.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_graphics.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_graphics.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_graphics.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_gui_basics.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_gui_basics.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_gui_basics.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DJUCER_ANDROIDSTUDIO_7F0E4A25=1 -DJUCE_ANDROID=1 -DJUCE_ANDROID_API_VERSION=16 -DJUCE_APP_VERSION=1.0.0 -DJUCE_APP_VERSION_HEX=0x10000 -DJUCE_CONTENT_SHARING=1 -DJUCE_PUSH_NOTIFICATIONS=1 -DJUCE_PUSH_NOTIFICATIONS_ACTIVITY=\\\"com/rmsl/juce/JuceActivity\\\" -DNDEBUG=1 -Djuce_jni_EXPORTS -I../../../../../../../JuceLibraryCode -ID:/JUCE/modules -IC:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/sources/android/cpufeatures -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -fsigned-char -std=gnu++14 -o CMakeFiles\\juce_jni.dir\\D_\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_gui_extra.cpp.o -c D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_gui_extra.cpp",
+  "file": "D:\\JUCE\\JuceProject\\Vrecorder\\JuceLibraryCode\\include_juce_gui_extra.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\aaudio\\AAudioLoader.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\aaudio\\AAudioLoader.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\aaudio\\AAudioLoader.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\aaudio\\AudioStreamAAudio.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\aaudio\\AudioStreamAAudio.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\aaudio\\AudioStreamAAudio.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\AudioSourceCaller.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\AudioSourceCaller.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\AudioSourceCaller.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\AudioStream.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\AudioStream.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\AudioStream.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\AudioStreamBuilder.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\AudioStreamBuilder.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\AudioStreamBuilder.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\DataConversionFlowGraph.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\DataConversionFlowGraph.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\DataConversionFlowGraph.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\FilterAudioStream.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\FilterAudioStream.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\FilterAudioStream.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\FixedBlockAdapter.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\FixedBlockAdapter.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\FixedBlockAdapter.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\FixedBlockReader.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\FixedBlockReader.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\FixedBlockReader.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\FixedBlockWriter.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\FixedBlockWriter.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\FixedBlockWriter.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\LatencyTuner.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\LatencyTuner.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\LatencyTuner.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\SourceFloatCaller.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\SourceFloatCaller.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\SourceFloatCaller.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\SourceI16Caller.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\SourceI16Caller.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\SourceI16Caller.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\SourceI24Caller.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\SourceI24Caller.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\SourceI24Caller.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\SourceI32Caller.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\SourceI32Caller.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\SourceI32Caller.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\Utilities.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\Utilities.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\Utilities.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\QuirksManager.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\QuirksManager.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\QuirksManager.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\fifo\\FifoBuffer.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\fifo\\FifoBuffer.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\fifo\\FifoBuffer.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\fifo\\FifoController.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\fifo\\FifoController.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\fifo\\FifoController.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\fifo\\FifoControllerBase.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\fifo\\FifoControllerBase.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\fifo\\FifoControllerBase.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\fifo\\FifoControllerIndirect.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\fifo\\FifoControllerIndirect.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\fifo\\FifoControllerIndirect.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\FlowGraphNode.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\FlowGraphNode.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\FlowGraphNode.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\ChannelCountConverter.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\ChannelCountConverter.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\ChannelCountConverter.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\ClipToRange.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\ClipToRange.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\ClipToRange.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\ManyToMultiConverter.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\ManyToMultiConverter.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\ManyToMultiConverter.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\MonoToMultiConverter.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\MonoToMultiConverter.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\MonoToMultiConverter.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\MultiToMonoConverter.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\MultiToMonoConverter.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\MultiToMonoConverter.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\RampLinear.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\RampLinear.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\RampLinear.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\SampleRateConverter.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SampleRateConverter.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SampleRateConverter.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\SinkFloat.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SinkFloat.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SinkFloat.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\SinkI16.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SinkI16.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SinkI16.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\SinkI24.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SinkI24.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SinkI24.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\SinkI32.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SinkI32.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SinkI32.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\SourceFloat.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SourceFloat.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SourceFloat.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\SourceI16.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SourceI16.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SourceI16.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\SourceI24.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SourceI24.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SourceI24.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\SourceI32.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SourceI32.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\SourceI32.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\resampler\\IntegerRatio.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\IntegerRatio.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\IntegerRatio.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\resampler\\LinearResampler.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\LinearResampler.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\LinearResampler.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\resampler\\MultiChannelResampler.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\MultiChannelResampler.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\MultiChannelResampler.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\resampler\\PolyphaseResampler.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\PolyphaseResampler.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\PolyphaseResampler.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\resampler\\PolyphaseResamplerMono.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\PolyphaseResamplerMono.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\PolyphaseResamplerMono.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\resampler\\PolyphaseResamplerStereo.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\PolyphaseResamplerStereo.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\PolyphaseResamplerStereo.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\resampler\\SincResampler.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\SincResampler.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\SincResampler.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\flowgraph\\resampler\\SincResamplerStereo.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\SincResamplerStereo.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\flowgraph\\resampler\\SincResamplerStereo.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\opensles\\AudioInputStreamOpenSLES.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\AudioInputStreamOpenSLES.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\AudioInputStreamOpenSLES.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\opensles\\AudioOutputStreamOpenSLES.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\AudioOutputStreamOpenSLES.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\AudioOutputStreamOpenSLES.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\opensles\\AudioStreamBuffered.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\AudioStreamBuffered.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\AudioStreamBuffered.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\opensles\\AudioStreamOpenSLES.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\AudioStreamOpenSLES.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\AudioStreamOpenSLES.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\opensles\\EngineOpenSLES.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\EngineOpenSLES.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\EngineOpenSLES.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\opensles\\OpenSLESUtilities.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\OpenSLESUtilities.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\OpenSLESUtilities.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\opensles\\OutputMixerOpenSLES.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\OutputMixerOpenSLES.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\opensles\\OutputMixerOpenSLES.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\StabilizedCallback.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\StabilizedCallback.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\StabilizedCallback.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\Trace.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\Trace.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\Trace.cpp"
+},
+
+{
+  "directory": "D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6x386e2g/x86",
+  "command": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/Gevyn/AppData/Local/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -ID:/JUCE/modules/juce_audio_devices/native/oboe/src -ID:/JUCE/modules/juce_audio_devices/native/oboe/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti  -O2 -g -DNDEBUG -fPIC   -Ofast -std=c++1z -o oboe\\CMakeFiles\\oboe.dir\\src\\common\\Version.cpp.o -c D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\Version.cpp",
+  "file": "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\src\\common\\Version.cpp"
+}
+]

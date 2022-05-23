@@ -1,0 +1,2 @@
+D:\JUCE\modules\juce_audio_devices\native\oboe\CMakeLists.txt
+D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\CMakeLists.txt

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Vrecorder" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="native-android-gradle" name="Native-Android-Gradle">
+      <configuration>
+        <option name="SELECTED_ABI" value="x86" />
+        <option name="SELECTED_VARIANT" value="debug_Debug" />
+      </configuration>
+    </facet>
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="7.0.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="7.0.0" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug_Debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug_Debug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebug_DebugSources" />
+        <afterSyncTasks>
+          <task>generateDebug_DebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug_/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/src/debug_Debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug_/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug_/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug_/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug_Debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug_/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug_/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug_Debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug_DebugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../.." type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug_Debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug_/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug_/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/res" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.cxx" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.externalNativeBuild" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug_Debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug_Debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug_/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug_/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug_/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/res" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.cxx" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.externalNativeBuild" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../JuceLibraryCode">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../JuceLibraryCode" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../Source">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Source" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_analytics">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_analytics" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_basics">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_basics" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_devices">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_devices" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_formats">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_formats" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_processors">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_processors" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_utils">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_audio_utils" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_box2d">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_box2d" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/containers">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/containers" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/files">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/files" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/javascript">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/javascript" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/logging">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/logging" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/maths">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/maths" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/memory">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/memory" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/misc">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/misc" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/native/java">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/native/java" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/native/javacore/app">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/native/javacore/app" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/native/javacore/init">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/native/javacore/init" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/network">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/network" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/streams">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/streams" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/system">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/system" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/text">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/text" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/threads">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/threads" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/time">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/time" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/unit_tests">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/unit_tests" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/xml">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/xml" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/zip">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_core/zip" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_cryptography">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_cryptography" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_data_structures">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_data_structures" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_dsp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_dsp" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_events">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_events" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_graphics">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_graphics" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/accessibility" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/application" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/buttons" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/commands" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/components" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/desktop" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/drawables" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/filebrowser" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/keyboard" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/layout" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/lookandfeel" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/menus" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/misc" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/mouse" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/native/accessibility" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/native/javaopt/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/native/x11" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/positioning" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/properties" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/widgets" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_basics/windows" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_extra">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../modules/juce_gui_extra" type="native-Source-root" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

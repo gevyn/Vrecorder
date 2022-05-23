@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yourcompany.vrecorder"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACTION_MANAGE_ALL_FILES_ACCESS_PERMISSION" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.rmsl.juce.JuceApp"
+        android:debuggable="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:testOnly="true"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="android.app.Activity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:hardwareAccelerated="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.rmsl.juce.JuceSharingContentProvider"
+            android:authorities="com.yourcompany.vrecorder.sharingcontentprovider"
+            android:exported="true"
+            android:grantUriPermissions="true" />
+    </application>
+
+</manifest>

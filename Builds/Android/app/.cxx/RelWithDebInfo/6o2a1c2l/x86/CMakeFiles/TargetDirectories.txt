@@ -1,0 +1,15 @@
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/CMakeFiles/list_install_components.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/CMakeFiles/cpufeatures.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/CMakeFiles/juce_jni.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/CMakeFiles/install/local.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/CMakeFiles/install.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/CMakeFiles/edit_cache.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/CMakeFiles/rebuild_cache.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/CMakeFiles/install/strip.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/oboe/CMakeFiles/oboe.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/oboe/CMakeFiles/install/local.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/oboe/CMakeFiles/install.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/oboe/CMakeFiles/edit_cache.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/oboe/CMakeFiles/rebuild_cache.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/oboe/CMakeFiles/list_install_components.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/RelWithDebInfo/6o2a1c2l/x86/oboe/CMakeFiles/install/strip.dir

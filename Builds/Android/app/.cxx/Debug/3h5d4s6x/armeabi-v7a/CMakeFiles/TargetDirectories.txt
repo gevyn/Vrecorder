@@ -1,0 +1,15 @@
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/CMakeFiles/list_install_components.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/CMakeFiles/cpufeatures.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/CMakeFiles/juce_jni.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/CMakeFiles/install/local.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/CMakeFiles/install.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/CMakeFiles/install/strip.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/oboe/CMakeFiles/oboe.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/oboe/CMakeFiles/install/local.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/oboe/CMakeFiles/install.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/oboe/CMakeFiles/edit_cache.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/oboe/CMakeFiles/rebuild_cache.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/oboe/CMakeFiles/list_install_components.dir
+D:/JUCE/JuceProject/Vrecorder/Builds/Android/app/.cxx/Debug/3h5d4s6x/armeabi-v7a/oboe/CMakeFiles/install/strip.dir

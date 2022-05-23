@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yourcompany.vrecorder"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+10
+11    <supports-screens
+11-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:3-6:51
+12        android:anyDensity="true"
+12-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:106-131
+13        android:largeScreens="true"
+13-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:78-105
+14        android:normalScreens="true"
+14-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:49-77
+15        android:smallScreens="true"
+15-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:21-48
+16        android:xlargeScreens="true" />
+16-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:6:21-49
+17
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:7:3-78
+18-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:7:20-76
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:8:3-77
+19-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:8:20-75
+20    <uses-permission android:name="android.permission.ACTION_MANAGE_ALL_FILES_ACCESS_PERMISSION" />
+20-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:10:3-97
+20-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:10:20-95
+21    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+21-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:11:3-79
+21-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:11:20-77
+22    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+22-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:14:3-68
+22-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:14:20-66
+23    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+23-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:15:3-83
+23-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:15:20-81
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:16:3-64
+24-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:16:20-62
+25
+26    <application
+26-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:17:3-30:17
+27        android:name="com.rmsl.juce.JuceApp"
+27-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:17:49-85
+28        android:debuggable="true"
+29        android:hardwareAccelerated="false"
+29-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:18:46-81
+30        android:icon="@drawable/icon"
+30-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:18:16-45
+31        android:label="@string/app_name"
+31-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:17:16-48
+32        android:requestLegacyExternalStorage="true"
+32-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:19:16-59
+33        android:testOnly="true"
+34        android:theme="@android:style/Theme.NoTitleBar" >
+34-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:17:86-133
+35        <activity
+35-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:20:5-27:16
+36            android:name="android.app.Activity"
+36-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:20:15-50
+37            android:configChanges="keyboardHidden|orientation|screenSize"
+37-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:20:84-145
+38            android:exported="true"
+38-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:22:15-38
+39            android:hardwareAccelerated="true"
+39-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:21:84-118
+40            android:label="@string/app_name"
+40-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:20:51-83
+41            android:launchMode="singleTask"
+41-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:21:52-83
+42            android:screenOrientation="portrait" >
+42-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:21:15-51
+43            <intent-filter>
+43-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:23:7-26:23
+44                <action android:name="android.intent.action.MAIN" />
+44-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:24:9-60
+44-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:24:17-58
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:25:9-68
+46-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:25:19-66
+47            </intent-filter>
+48        </activity>
+49
+50        <provider
+50-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:28:5-29:75
+51            android:name="com.rmsl.juce.JuceSharingContentProvider"
+51-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:28:15-70
+52            android:authorities="com.yourcompany.vrecorder.sharingcontentprovider"
+52-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:28:71-141
+53            android:exported="true"
+53-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:29:50-73
+54            android:grantUriPermissions="true" />
+54-->D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:29:15-49
+55    </application>
+56
+57</manifest>

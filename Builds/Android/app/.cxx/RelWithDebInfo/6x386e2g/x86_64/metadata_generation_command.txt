@@ -1,0 +1,33 @@
+                    Executable : C:\Users\Gevyn\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\JUCE\JuceProject\Vrecorder\Builds\Android\app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_ABI=x86_64
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DANDROID_NDK=C:\Users\Gevyn\AppData\Local\Android\Sdk\ndk\24.0.8215888
+-DCMAKE_ANDROID_NDK=C:\Users\Gevyn\AppData\Local\Android\Sdk\ndk\24.0.8215888
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\Gevyn\AppData\Local\Android\Sdk\ndk\24.0.8215888\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\Gevyn\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\build\intermediates\cxx\RelWithDebInfo\6x386e2g\obj\x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\build\intermediates\cxx\RelWithDebInfo\6x386e2g\obj\x86_64
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-BD:\JUCE\JuceProject\Vrecorder\Builds\Android\app\.cxx\RelWithDebInfo\6x386e2g\x86_64
+-GNinja
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_PLATFORM=android-16
+-DANDROID_STL=c++_static
+-DANDROID_CPP_FEATURES=exceptions rtti
+-DANDROID_ARM_MODE=arm
+-DANDROID_ARM_NEON=TRUE
+-DCMAKE_CXX_STANDARD=14
+-DCMAKE_CXX_EXTENSIONS=ON
+-DJUCE_BUILD_CONFIGURATION=RELEASE
+-DCMAKE_CXX_FLAGS_RELEASE=-O3
+-DCMAKE_C_FLAGS_RELEASE=-O3
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

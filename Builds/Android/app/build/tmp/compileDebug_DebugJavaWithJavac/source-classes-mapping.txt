@@ -1,0 +1,61 @@
+com/rmsl/juce/Java.java
+ com.rmsl.juce.Java
+org/json/Property.java
+ org.json.Property
+org/json/Cookie.java
+ org.json.Cookie
+org/json/HTTPTokener.java
+ org.json.HTTPTokener
+com/rmsl/juce/JuceSharingContentProvider.java
+ com.rmsl.juce.JuceSharingContentProvider
+org/json/JSONML.java
+ org.json.JSONML
+com/rmsl/juce/JuceApp.java
+ com.rmsl.juce.JuceApp
+org/json/JSONArray.java
+ org.json.JSONArray
+com/baidu/speech/restapi/asrdemo/Base64Util.java
+ com.baidu.speech.restapi.asrdemo.Base64Util
+org/json/XML.java
+ org.json.XML
+ org.json.XML$1
+ org.json.XML$1$1
+org/json/JSONTokener.java
+ org.json.JSONTokener
+org/json/JSONStringer.java
+ org.json.JSONStringer
+org/json/CookieList.java
+ org.json.CookieList
+org/json/JSONException.java
+ org.json.JSONException
+org/json/JSONObject.java
+ org.json.JSONObject
+ org.json.JSONObject$1
+ org.json.JSONObject$Null
+com/baidu/speech/restapi/common/DemoException.java
+ com.baidu.speech.restapi.common.DemoException
+org/json/JSONWriter.java
+ org.json.JSONWriter
+org/json/XMLTokener.java
+ org.json.XMLTokener
+com/baidu/speech/restapi/asrdemo/AsrMain.java
+ com.baidu.speech.restapi.asrdemo.AsrMain
+org/json/HTTP.java
+ org.json.HTTP
+com/baidu/speech/restapi/common/TokenHolder.java
+ com.baidu.speech.restapi.common.TokenHolder
+org/json/JSONString.java
+ org.json.JSONString
+org/json/JSONPointerException.java
+ org.json.JSONPointerException
+org/json/CDL.java
+ org.json.CDL
+org/json/JSONPointer.java
+ org.json.JSONPointer
+ org.json.JSONPointer$Builder
+com/rmsl/juce/JuceActivity.java
+ com.rmsl.juce.JuceActivity
+com/yourcompany/vrecorder/BuildConfig.java
+ com.yourcompany.vrecorder.BuildConfig
+com/baidu/speech/restapi/common/ConnUtil.java
+ com.baidu.speech.restapi.common.ConnUtil

@@ -1,0 +1,68 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\JUCE\\modules\\juce_audio_devices\\native\\oboe\\CMakeLists.txt",
+    "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\3h5d4s6x\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\3h5d4s6x\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "juce_jni-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\3h5d4s6x\\arm64-v8a",
+        "juce_jni"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "juce_jni",
+      "output": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cxx\\Debug\\3h5d4s6x\\obj\\arm64-v8a\\libjuce_jni.so",
+      "runtimeFiles": []
+    },
+    "cpufeatures-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\3h5d4s6x\\arm64-v8a",
+        "cpufeatures"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "cpufeatures",
+      "output": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\3h5d4s6x\\arm64-v8a\\libcpufeatures.a"
+    },
+    "oboe-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\3h5d4s6x\\arm64-v8a",
+        "oboe"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "oboe",
+      "output": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\3h5d4s6x\\arm64-v8a\\oboe\\liboboe.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "mm",
+    "cpp"
+  ]
+}

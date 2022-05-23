@@ -1,0 +1,6 @@
+ninja: Entering directory `D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\.cxx\Debug\3h5d4s6x\x86_64'
+[1/5] Building CXX object CMakeFiles/juce_jni.dir/D_/JUCE/JuceProject/Vrecorder/Source/RecordComponent.cpp.o
+[2/5] Building CXX object CMakeFiles/juce_jni.dir/D_/JUCE/JuceProject/Vrecorder/Source/FileComponent.cpp.o
+[3/5] Building CXX object CMakeFiles/juce_jni.dir/D_/JUCE/JuceProject/Vrecorder/Source/Main.cpp.o
+[4/5] Building CXX object CMakeFiles/juce_jni.dir/D_/JUCE/JuceProject/Vrecorder/Source/MainComponent.cpp.o
+[5/5] Linking CXX shared library ..\..\..\..\build\intermediates\cxx\Debug\3h5d4s6x\obj\x86_64\libjuce_jni.so

@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:1-31:12
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:1-31:12
+	package
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:4:11-46
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:94-121
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:3:70-93
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:3-6:51
+	android:largeScreens
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:78-105
+	android:smallScreens
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:21-48
+	android:normalScreens
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:49-77
+	android:xlargeScreens
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:6:21-49
+	android:anyDensity
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:5:106-131
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:7:3-78
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:7:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:8:20-75
+uses-permission#android.permission.ACTION_MANAGE_ALL_FILES_ACCESS_PERMISSION
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:10:3-97
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:10:20-95
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:11:3-79
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:11:20-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:14:3-68
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:14:20-66
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:15:3-83
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:15:20-81
+uses-permission#android.permission.INTERNET
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:16:3-64
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:16:20-62
+application
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:17:3-30:17
+	android:requestLegacyExternalStorage
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:19:16-59
+	android:label
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:17:16-48
+	android:hardwareAccelerated
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:18:46-81
+	android:icon
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:18:16-45
+	android:theme
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:17:86-133
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:17:49-85
+activity#android.app.Activity
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:20:5-27:16
+	android:screenOrientation
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:21:15-51
+	android:label
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:20:51-83
+	android:launchMode
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:21:52-83
+	android:hardwareAccelerated
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:21:84-118
+	android:exported
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:22:15-38
+	android:configChanges
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:20:84-145
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:20:15-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:23:7-26:23
+action#android.intent.action.MAIN
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:24:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:25:9-68
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:25:19-66
+provider#com.rmsl.juce.JuceSharingContentProvider
+ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:28:5-29:75
+	android:grantUriPermissions
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:29:15-49
+	android:authorities
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:28:71-141
+	android:exported
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:29:50-73
+	android:name
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml:28:15-70
+uses-sdk
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JUCE\JuceProject\Vrecorder\Builds\Android\app\src\main\AndroidManifest.xml

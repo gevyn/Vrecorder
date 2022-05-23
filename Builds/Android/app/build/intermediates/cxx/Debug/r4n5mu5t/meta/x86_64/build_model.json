@@ -1,0 +1,186 @@
+{
+  "abi": "X86_64",
+  "info": {
+    "abi": "X86_64",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\x86_64",
+  "soFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cxx\\Debug\\r4n5mu5t\\obj\\x86_64",
+  "soRepublishFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cmake\\debug_Debug\\obj\\x86_64",
+  "abiPlatformVersion": 16,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_TOOLCHAIN\u003dclang",
+      "-DANDROID_PLATFORM\u003dandroid-16",
+      "-DANDROID_STL\u003dc++_static",
+      "-DANDROID_CPP_FEATURES\u003dexceptions rtti",
+      "-DANDROID_ARM_MODE\u003darm",
+      "-DANDROID_ARM_NEON\u003dTRUE",
+      "-DCMAKE_CXX_STANDARD\u003d14",
+      "-DCMAKE_CXX_EXTENSIONS\u003dOFF",
+      "-DJUCE_BUILD_CONFIGURATION\u003dDEBUG",
+      "-DCMAKE_CXX_FLAGS_DEBUG\u003d-O0",
+      "-DCMAKE_C_FLAGS_DEBUG\u003d-O0"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug_Debug",
+    "soFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cxx\\Debug\\r4n5mu5t\\obj",
+    "soRepublishFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cmake\\debug_Debug\\obj",
+    "cxxBuildFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t",
+    "intermediatesFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cxx\\Debug\\r4n5mu5t",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx",
+      "intermediatesBaseFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates",
+      "intermediatesFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cxx",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app",
+      "moduleBuildFile": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build.gradle",
+      "makeFile": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android",
+        "sdkFolder": "C:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "ideBuildTargetAbi": "x86_64,x86",
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "c++_static",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "D:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\prefab\\x86_64",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "r4n5mu5t351n3e13ne455txb1a2yp242d5hs5a6me5x6l35386r2w",
+  "configurationArguments": [
+    "-HD:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d16",
+    "-DANDROID_ABI\u003dx86_64",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64",
+    "-DANDROID_NDK\u003dC:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529",
+    "-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Gevyn\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cxx\\Debug\\r4n5mu5t\\obj\\x86_64",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\build\\intermediates\\cxx\\Debug\\r4n5mu5t\\obj\\x86_64",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-BD:\\JUCE\\JuceProject\\Vrecorder\\Builds\\Android\\app\\.cxx\\Debug\\r4n5mu5t\\x86_64",
+    "-GNinja",
+    "-DANDROID_TOOLCHAIN\u003dclang",
+    "-DANDROID_PLATFORM\u003dandroid-16",
+    "-DANDROID_STL\u003dc++_static",
+    "-DANDROID_CPP_FEATURES\u003dexceptions rtti",
+    "-DANDROID_ARM_MODE\u003darm",
+    "-DANDROID_ARM_NEON\u003dTRUE",
+    "-DCMAKE_CXX_STANDARD\u003d14",
+    "-DCMAKE_CXX_EXTENSIONS\u003dOFF",
+    "-DJUCE_BUILD_CONFIGURATION\u003dDEBUG",
+    "-DCMAKE_CXX_FLAGS_DEBUG\u003d-O0",
+    "-DCMAKE_C_FLAGS_DEBUG\u003d-O0"
+  ]
+}
